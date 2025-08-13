@@ -37,19 +37,19 @@ The dataset, containing retail sales data from **2014**, was sourced from **Obvi
 
 ## 📊 Key Findings & Recommendations
 
-### 📌 Inefficient Store Chain Distribution
+### Inefficient Store Chain Distribution
 - **Finding:** Fashion Direct generates higher revenue despite having fewer stores, while Lindseys has a wider network but lower efficiency and higher operational costs.
 - **Recommendation:** Expand **Fashion Direct** in high-demand areas while optimizing and downsizing Lindseys’ network to reduce costs.
 
-### 📌 Seasonal Sales Fluctuations
+### Seasonal Sales Fluctuations
 - **Finding:** Sales dropped in **May** and **July**, possibly due to inadequate planning.
 - **Recommendation:** Implement promotional campaigns during low seasons and use **data-driven forecasting** to adjust inventory strategies.
 
-### 📌 Uneven Performance Across Product Categories
+### Uneven Performance Across Product Categories
 - **Finding:** Sales rely heavily on *Mens*, *Home (090)*, and *Shoes (050)*, while *Womens (010)* and *Hosiery (070)* declined.
 - **Recommendation:** Expand *Kids (030)* and *Juniors (040)* categories; introduce promotions to boost underperforming segments.
 
-### 📌 Regional Sales Strategy Adjustments
+### Regional Sales Strategy Adjustments
 - **Finding:** Best-selling products vary by region (e.g., home goods more popular in inland cities than footwear).
 - **Recommendation:** Optimize inventory and marketing strategies based on **regional demand** to improve efficiency.
 
