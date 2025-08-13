@@ -77,12 +77,20 @@ The dataset, containing retail sales data from **2014**, was sourced from **Obvi
 ---
 
 ## 📸 Dashboard Preview
+
 <img width="1282" height="743" alt="Screenshot 2025-08-13 181015" src="https://github.com/user-attachments/assets/d0d183a9-48a9-4d29-a471-803692d6adb4" />
+
 <img width="1282" height="751" alt="Screenshot 2025-08-13 181037" src="https://github.com/user-attachments/assets/f08ed510-15f2-4ac6-a62c-1fe78c9f6e2d" />
+
 <img width="1278" height="748" alt="Screenshot 2025-08-13 181102" src="https://github.com/user-attachments/assets/8744d7ba-8677-4b96-8269-c308c2bf90ac" />
+
 <img width="1276" height="741" alt="Screenshot 2025-08-13 181122" src="https://github.com/user-attachments/assets/7517e70d-2cf7-4daf-8e5d-c549754189e7" />
+
 <img width="1283" height="747" alt="Screenshot 2025-08-13 181140" src="https://github.com/user-attachments/assets/8e4f512b-b705-45d2-9003-3155eef2e2af" />
 
+## 📸 Data Model
+
+<img width="1919" height="813" alt="Screenshot 2025-02-26 125317" src="https://github.com/user-attachments/assets/5be1c2bf-d34a-4d68-ab65-af8185759f66" />
 
 
 
