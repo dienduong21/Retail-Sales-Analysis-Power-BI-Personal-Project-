@@ -1,6 +1,6 @@
 # 🛍 Retail Sales Analysis – Power BI Personal Project
 
-This is my first **data analysis project**, which is also my **final assignment for the Power BI course at Datapot**: *Retail Sales Analysis*.  
+This is my first **data analysis project**, which is also my **final assignment for the Power BI course at Datapot**: *Retail Sales Analysis*.  It was evaluated by the teachers at Datapot as the best project of this course.
 
 The dataset, containing retail sales data from **2014**, was sourced from **Obvience.com**.  
 
