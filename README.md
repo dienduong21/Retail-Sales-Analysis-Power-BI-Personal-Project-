@@ -60,15 +60,15 @@ Ohio (OH) and Pennsylvania (PA) lead in both units and sales volume, while state
 ## 3. Recommendations
 
 > **Applying the Pareto method to define main problems:** Two problems account for the majority of the business's underperformance are:
-> **(1) Lindseys' structural inefficiency** dragging down overall margins
+> **(1) Lindseys' structural inefficiency** dragging down overall margins and 
 > **(2) accelerating decline in Women's, Hosiery, and Intimate categories** shrinking the customer base.
 > Fixing these two delivers the highest return before optimizing everything else.
 
 
-### 🔴 Priority 1: Lindseys Is Underperforming at Scale
+### 🔴 Priority 1: Lindseys is underperforming at scale
 
 **The Problem:**
-Lindseys operates 67 stores (64% of the total network) but generates only $13.17M — just 29.16% of company revenue. Its gross margin growth is already negative (-0.24% YoY). At the district level, Brad Sutton's 14 stores are actively losing margin (-0.41%). Fashion Direct, with 37 stores, produces $32.01M at a 41.83% gross margin. The gap isn't marginal - it's structural.
+Lindseys operates 67 stores (64% of the total network) but generates only $13.17M - just 29.16% of company revenue. Its gross margin growth is already negative (-0.24% YoY). At the district level, Brad Sutton's 14 stores are actively losing margin (-0.41%). Fashion Direct, with 37 stores, produces $32.01M at a 41.83% gross margin. The gap isn't marginal - it's structural.
 
 **Actions & Timeline:**
 
@@ -86,10 +86,10 @@ Lindseys operates 67 stores (64% of the total network) but generates only $13.17
 - Target: improve company-wide gross margin from **42.29% → 44–45%** by removing the margin drag from the weakest Lindseys locations.
 
 
-### 🔴 Priority 2: Women's, Hosiery & Intimate Are in Freefall
+### 🔴 Priority 2: Women's, Hosiery & Intimate are underperforming
 
 **The Problem:**
-Women's (010) posted **-33.30% sales growth** - the steepest decline in the portfolio — on $4.47M in sales. Hosiery (070) dropped **-15.25%** and Intimate (060) fell **-10.79%**. Together, these three categories represent roughly **$7.3M in current revenue** but are on a trajectory that could wipe out a significant portion of that within 1–2 years if unaddressed. Given that Fashion Direct's top category mix skews toward Home, Men's, and Kids, there is likely a merchandising or positioning mismatch for female-oriented segments.
+Women's (010) posted **-33.30% sales growth** - the steepest decline in the portfolio - on $4.47M in sales. Hosiery (070) dropped **-15.25%** and Intimate (060) fell **-10.79%**. Together, these three categories represent roughly **$7.3M in current revenue** but are on a trajectory that could wipe out a significant portion of that within 1–2 years if unaddressed. Given that Fashion Direct's top category mix skews toward Home, Men's, and Kids, there is likely a merchandising or positioning mismatch for female-oriented segments.
 
 **Actions & Timeline:**
 
@@ -102,7 +102,7 @@ Women's (010) posted **-33.30% sales growth** - the steepest decline in the port
 | Evaluate full category investment or exit decision | Long-term (2016–2017) | If Women's recovery stalls below -10% YoY after intervention, consider reducing SKU range and reallocating shelf space to Kids and Juniors |
 
 **Estimated Impact:**
-- Stabilizing Women's decline from -33.30% to flat (0% growth) by end of 2015 would recover an estimated **$1.5M–$2M** in revenue at current category size.
+- Stabilizing Women's decline from -33.30% to flat (0% growth) by end of 2015 would recover an estimated **$1.5M–$2M** in revenue at the current category size.
 - If Hosiery and Intimate are stabilized at -5% or better by mid-2016, combined revenue preservation across the three categories is approximately **$800K–$1.2M**.
 - Longer term: if Women's returns to modest growth of +5–8% by 2017, it could contribute an additional **$200K–$350K** in incremental revenue annually.
 - Secondary benefit: recovering female-oriented categories strengthens Fashion Direct's appeal to a broader shopper demographic, supporting store traffic across all categories.
