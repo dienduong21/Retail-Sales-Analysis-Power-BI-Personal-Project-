@@ -37,22 +37,22 @@ The dataset, containing retail sales data from **2014**, was sourced from **Obvi
 
 ## 2. Key Findings
 
-**1/ Fashion Direct dominates revenue despite having fewer stores.**
+> **1/ Fashion Direct dominates revenue despite having fewer stores.**
 Fashion Direct generated **$32.01M (70.84% of total revenue)** across only 37 stores, while Lindseys produced **$13.17M** across 67 stores. Fashion Direct's sales per sq ft ($13.25 avg) also outpaces Lindseys ($12.81 avg), confirming a clear efficiency gap between the two chains.
 
-**2/ Total sales nearly doubled YoY, but unit volume declined.**
+> **2/ Total sales nearly doubled YoY, but unit volume declined.**
 Overall sales grew **95.33% YoY** to $45.18M with gross margin improving slightly to **42.29% (+1.45%)**. However, total units sold dropped from 4.46M to 4M **(-9.99%)**, suggesting growth was driven by price increases rather than volume - a potential risk if pricing power weakens.
 
-**3/ Sales dip sharply in May and July.**
+> **3/ Sales dip sharply in May and July.**
 The monthly trend shows revenue falling to **$5.4M in May** and **$5.6M in July**, sandwiched between stronger months. These mid-year dips are consistent and appear unmanaged. There is no visible promotional response in either period.
 
-**4/ Revenue is heavily concentrated in 3 categories.**
+> **4/ Revenue is heavily concentrated in 3 categories.**
 Men's ($8.91M), Shoes ($7.22M), and Juniors ($6.04M) together account for **about $22M to nearly 49% of total sales**. Meanwhile, Women's (-33.30% sales growth), Hosiery (-15.25%), and Intimate (-10.79%) are all declining, signaling a shrinking customer base in key segments.
 
-**5/ Cost growth is outpacing category performance in several segments.**
+> **5/ Cost growth is outpacing category performance in several segments.**
 Home's cost grew **107.66%** while sales grew only 4.79%. Accessories cost grew **100.46%** on 8.34% sales growth. These mismatches point to margin pressure that is not visible at the top-line level.
 
-**6/ Regional demand varies significantly across territories.**
+> **6/ Regional demand varies significantly across territories.**
 Ohio (OH) and Pennsylvania (PA) lead in both units and sales volume, while states like Delaware (DE) and Tennessee (TN) sit at the bottom. The category mix also shifts by territory - a uniform stocking strategy across all regions is likely leaving revenue on the table.
 
 ---
@@ -65,7 +65,7 @@ Ohio (OH) and Pennsylvania (PA) lead in both units and sales volume, while state
 > Fixing these two delivers the highest return before optimizing everything else.
 
 
-### 🔴 Priority 1 — Lindseys Is Underperforming at Scale
+### 🔴 Priority 1: Lindseys Is Underperforming at Scale
 
 **The Problem:**
 Lindseys operates 67 stores (64% of the total network) but generates only $13.17M — just 29.16% of company revenue. Its gross margin growth is already negative (-0.24% YoY). At the district level, Brad Sutton's 14 stores are actively losing margin (-0.41%). Fashion Direct, with 37 stores, produces $32.01M at a 41.83% gross margin. The gap isn't marginal - it's structural.
@@ -86,7 +86,7 @@ Lindseys operates 67 stores (64% of the total network) but generates only $13.17
 - Target: improve company-wide gross margin from **42.29% → 44–45%** by removing the margin drag from the weakest Lindseys locations.
 
 
-### 🔴 Priority 2 — Women's, Hosiery & Intimate Are in Freefall
+### 🔴 Priority 2: Women's, Hosiery & Intimate Are in Freefall
 
 **The Problem:**
 Women's (010) posted **-33.30% sales growth** - the steepest decline in the portfolio — on $4.47M in sales. Hosiery (070) dropped **-15.25%** and Intimate (060) fell **-10.79%**. Together, these three categories represent roughly **$7.3M in current revenue** but are on a trajectory that could wipe out a significant portion of that within 1–2 years if unaddressed. Given that Fashion Direct's top category mix skews toward Home, Men's, and Kids, there is likely a merchandising or positioning mismatch for female-oriented segments.
@@ -123,9 +123,9 @@ Women's (010) posted **-33.30% sales growth** - the steepest decline in the port
 
 ## 5. Lessons & Takeaways
 
-- Applied Power BI skills to **real-world-style data analysis**.
-- Learned how to create reports that are **both visually appealing and business-relevant**.
-- Gained experience in identifying **insights** and making **recommendations** that address specific business challenges.
+- Working with this dataset taught me how to move beyond describing numbers - the real skill is connecting data patterns to business decisions that someone can actually act on.
+- I deepened my technical understanding of DAX, dynamic dimensions, and conditional formatting, learning how to build dashboards that are genuinely useful rather than just visually clean.
+- Most importantly, this project shifted my thinking from reporting what happened to asking why it happened and what should be done next, which is the core of what business analysis is about.
 
 ---
 
