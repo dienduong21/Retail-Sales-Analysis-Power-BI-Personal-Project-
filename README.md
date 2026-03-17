@@ -37,22 +37,22 @@ The dataset, containing retail sales data from **2014**, was sourced from **Obvi
 
 ## 2. Key Findings
 
-> **1/ Fashion Direct dominates revenue despite having fewer stores.**
+**1/ Fashion Direct dominates revenue despite having fewer stores.**
 Fashion Direct generated **$32.01M (70.84% of total revenue)** across only 37 stores, while Lindseys produced **$13.17M** across 67 stores. Fashion Direct's sales per sq ft ($13.25 avg) also outpaces Lindseys ($12.81 avg), confirming a clear efficiency gap between the two chains.
 
-> **2/ Total sales nearly doubled YoY, but unit volume declined.**
+**2/ Total sales nearly doubled YoY, but unit volume declined.**
 Overall sales grew **95.33% YoY** to $45.18M with gross margin improving slightly to **42.29% (+1.45%)**. However, total units sold dropped from 4.46M to 4M **(-9.99%)**, suggesting growth was driven by price increases rather than volume - a potential risk if pricing power weakens.
 
-> **3/ Sales dip sharply in May and July.**
+**3/ Sales dip sharply in May and July.**
 The monthly trend shows revenue falling to **$5.4M in May** and **$5.6M in July**, sandwiched between stronger months. These mid-year dips are consistent and appear unmanaged. There is no visible promotional response in either period.
 
-> **4/ Revenue is heavily concentrated in 3 categories.**
+**4/ Revenue is heavily concentrated in 3 categories.**
 Men's ($8.91M), Shoes ($7.22M), and Juniors ($6.04M) together account for **about $22M to nearly 49% of total sales**. Meanwhile, Women's (-33.30% sales growth), Hosiery (-15.25%), and Intimate (-10.79%) are all declining, signaling a shrinking customer base in key segments.
 
-> **5/ Cost growth is outpacing category performance in several segments.**
+**5/ Cost growth is outpacing category performance in several segments.**
 Home's cost grew **107.66%** while sales grew only 4.79%. Accessories cost grew **100.46%** on 8.34% sales growth. These mismatches point to margin pressure that is not visible at the top-line level.
 
-> **6/ Regional demand varies significantly across territories.**
+**6/ Regional demand varies significantly across territories.**
 Ohio (OH) and Pennsylvania (PA) lead in both units and sales volume, while states like Delaware (DE) and Tennessee (TN) sit at the bottom. The category mix also shifts by territory - a uniform stocking strategy across all regions is likely leaving revenue on the table.
 
 ---
