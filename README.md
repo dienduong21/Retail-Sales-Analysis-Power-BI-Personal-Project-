@@ -86,7 +86,7 @@ Lindseys operates 67 stores (64% of the total network) but generates only $13.17
 - Target: improve company-wide gross margin from **42.29% → 44–45%** by removing the margin drag from the weakest Lindseys locations.
 
 
-### 🔴 Priority 2: Women's, Hosiery & Intimate are underperforming
+### 🔴 Priority 2: Women's, Hosiery & Intimate sales are declining
 
 **The Problem:**
 Women's (010) posted **-33.30% sales growth** - the steepest decline in the portfolio - on $4.47M in sales. Hosiery (070) dropped **-15.25%** and Intimate (060) fell **-10.79%**. Together, these three categories represent roughly **$7.3M in current revenue** but are on a trajectory that could wipe out a significant portion of that within 1–2 years if unaddressed. Given that Fashion Direct's top category mix skews toward Home, Men's, and Kids, there is likely a merchandising or positioning mismatch for female-oriented segments.
