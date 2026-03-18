@@ -15,7 +15,7 @@ The dataset, containing retail sales data from **2014**, was sourced from **Obvi
 - Store branches are primarily located in the **Southeastern United States**.
 - Product categories include **Fashion**, **Grocery**, and **Home Goods**.
 
-### Report Objectives
+### Project Objectives
 - Provide an **overview** of the company’s sales performance in 2014.
 - Offer **detailed insights** into the sales performance of each chain for District Managers.
 - Identify **key challenges** and propose **data-driven recommendations** to improve future sales.
